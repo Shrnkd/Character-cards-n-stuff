@@ -1,10 +1,12 @@
 ## How to nail group chats on sillytavern?
 This Isn't exactly a guide. most of the important stuff are available on other character creation guides, and ST DOCS. But people complaining on group chats not working for them the way they hoped is common, so I thought I'll write a few pointers that if you mind them, it can significantly improve the experience.
-I'll be referring to a case of 3 group members in a chat group for simplicity (2 AI characters + a Human player ({{use}}), but mastering
+I'll be referring to a case of 3 group members in a chat group for simplicity (2 AI characters + a Human player ({{user}}), but mastering
 that, makes adding more characters to the group simple because the core concepts remain the same..
 so, diving right in, the following approach, should guarantee a better group chat experience:
 ### SCENARIO:
-Try picking random characters for a group chat, with no specified scenarios in any of the character cards. If the characters are interesting, if they have some specified goals or ambitions, you may have a nice experience. the problems begin when those cards include a scenarios, or even if you use the scenario override and write a unified scenario for all characters to use.
+Make sure the characters you pick have no prefilled scenatio. If they do - Delete it. you'll be needing that block.
+**Do not use the chat scenario override available in the group setting.** Sure, It solves the issue of having unrelated scenarios specified on each character card - but we already took care of it by deleting those (Or copy pasting them into the creator's notes - if you wish to keep those scenarios for later use).
+
 
 ### IMPORTANT NOTES:
 Scenario:
