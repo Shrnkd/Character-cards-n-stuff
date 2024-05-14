@@ -6,6 +6,10 @@ so, diving right in, the following approach, should guarantee a better group cha
 ### SCENARIO:
 Make sure the characters you pick have no prefilled scenatio. If they do - Delete it. you'll be needing that block.
 **Do not use the chat scenario override available in the group setting.** Sure, It solves the issue of having unrelated scenarios specified on each character card - but we already took care of it by deleting those (Or copy pasting them into the creator's notes - if you wish to keep those scenarios for later use).
+#### Now comes the important part:
+Whatever your scenario is. split it into 2:
+
+
 
 
 ### IMPORTANT NOTES:
