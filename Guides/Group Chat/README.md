@@ -8,12 +8,14 @@ Make sure the characters you pick have no prefilled scenatio. If they do - Delet
 **Do not use the chat scenario override available in the group setting.** Sure, It solves the issue of having unrelated scenarios specified on each character card - but we already took care of it by deleting those (Or copy pasting them into the creator's notes - if you wish to keep those scenarios for later use).
 #### Now comes the important part:
 Whatever your scenario is. split it into 2 POVs, write the scenario for the first character from it's point of view, and the scenario for the second character from that second character's point of view. that's actually the most important part.
+You'll achieve 2 goals:
+1. For each character response generation, the output will be focused on that specific character's arc. -  so it's less likely to include other characters responses where it shouldnt)
+2. Since it doesn't know what's in store for other characters, plotwise, when something happens, it's unexpected and the character will react more naturally and in line with it's personality.
+**Example**:
+If my explanation isn't clear, check out the following two cards to better understand what I mean by splitting a scenario into 2 POVs:
 
+### Custom stopping strings:
+Add every participating character's full name (do not use {{char}} placeholder. use the actual name) as a stopping string. for example, for a character named Mike: "\nMike:"
+This way you won't experience that annoying situation where other characters respond before it's their turn to talk.
 
-
-
-### IMPORTANT NOTES:
-Scenario:
-First of all, if your characters weren't made with group chats in mind, delete all participating characters private scenarios. They'll only confuse the characters when on group chat.
-If you use a unified scenario I highly recommend against it. If you insist, stick to the bare minimum, but add a more elaborate scenario on each character's description box (this part is important, it has to be in the description box, because a unified scenario cancels the scenario box of every participating character.
 
