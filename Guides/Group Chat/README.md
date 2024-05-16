@@ -1,5 +1,5 @@
 ## How to nail group chats on sillytavern?
-This Isn't exactly a guide. most of the important stuff are available on other character creation guides, and ST DOCS. But people complaining on group chats not working for them the way they hoped is common, so I thought I'll write a few pointers that if you mind them, it can significantly improve the experience.
+This Isn't exactly a guide. most of the important stuff are available on other character creation guides, and ST DOCS. But I've noticed, more than once, people say (on sillytavernai subreddit) that group chats are not working for them the way they hoped, so I thought I'll write two pointers that made a big difference for me. Hopefully, it can significantly improve your experience too.
 I'll be referring to a case of 3 group members in a chat group for simplicity (2 AI characters + a Human player ({{user}}), but mastering
 that, makes adding more characters to the group simple because the core concepts remain the same..
 so, diving right in, the following approach, should guarantee a better group chat experience:
