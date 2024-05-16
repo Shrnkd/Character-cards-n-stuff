@@ -13,6 +13,8 @@ You'll achieve 2 goals:
 2. Since it doesn't know what's in store for other characters, plotwise, when something happens, it's unexpected and the character will react more naturally and in line with it's personality.
 **Example**:
 If my explanation isn't clear, check out the following two cards to better understand what I mean by splitting a scenario into 2 POVs:
+[Character_No.1](Character_No.1.md)
+[Character_No.2](Character_No.2.md)
 
 ### Custom stopping strings:
 Add every participating character's full name (do not use {{char}} placeholder. use the actual name) as a stopping string. for example, for a character named Mike: "\nMike:"
